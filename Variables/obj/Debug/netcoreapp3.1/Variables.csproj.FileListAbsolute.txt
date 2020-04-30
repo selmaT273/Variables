@@ -1,0 +1,12 @@
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csprojAssemblyReference.cache
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.CoreCompileInputs.cache
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
+/Users/staceyteltser/Desktop/deltav401/Variables/Variables/obj/Debug/netcoreapp3.1/Variables.genruntimeconfig.cache
